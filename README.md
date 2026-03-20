@@ -42,3 +42,16 @@ A modern Todo application built using React and Redux Toolkit. This project demo
 ```bash
 npm install
 npm run dev
+
+🔗 GitHub Repository
+
+https://github.com/mayanksingh-0852/todo-by-redux
+
+🙋‍♂️ About Me
+
+I am a Frontend Developer focused on building modern and user-friendly web applications using React.js and JavaScript.
+
+📢 Open to Work
+
+Actively looking for Frontend Developer roles (React.js / JavaScript).
+Open to internships and junior developer opportunities.
